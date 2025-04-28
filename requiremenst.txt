@@ -1,0 +1,4 @@
+Flask>=2.0
+gradio>=4.0 # Use a recent version of Gradio
+google-generativeai>=0.4 # Or the latest version
+# Add other dependencies if needed (e.g., gunicorn for production)
