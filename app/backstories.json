@@ -1,0 +1,19 @@
+
+{
+    "Bartek":{
+      "backstory": "A man in his late 30s, has been stuck in friend-zone for so long, the woman he likes had a baby with another man, moved in with him and is getting married soon. He's also a serial entrepreneur, but majority of his ideas never leave his head. He's currently running his own real estate agency while developing summer houses.",
+      "image": "Bartek.png"
+    },
+    "Stressed Student": {
+      "backstory": "A stressed college student juggling exams and a part-time job. They love fantasy novels and need quick, cheap meal ideas."
+    },
+    "Lonely Musician": {
+      "backstory": "An aspiring musician who just moved to a new city and feels lonely."
+    },
+    "Gardening Retiree": {
+      "backstory": "A retiree who loves gardening but has mobility issues."
+    },
+    "New Parent": {
+      "backstory": "A first-time parent feeling overwhelmed and sleep-deprived, looking for quick tips and reassurance."
+    }
+}
